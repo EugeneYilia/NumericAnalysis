@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e29117bf-b9b5-4cb6-a6a1-d047ca1b6c88" name="Default" comment="" />
+    <list default="true" id="e29117bf-b9b5-4cb6-a6a1-d047ca1b6c88" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,6 +53,9 @@
       <find>printFullMatrix</find>
       <find>drawfunction</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -434,7 +442,7 @@
       <workItem from="1526280088794" duration="28045000" />
       <workItem from="1526447639504" duration="13224000" />
       <workItem from="1526481670330" duration="1832000" />
-      <workItem from="1526492141613" duration="31454000" />
+      <workItem from="1526492141613" duration="31631000" />
     </task>
     <servers />
   </component>
@@ -459,7 +467,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94210000" />
+    <option name="totallyTimeSpent" value="94387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-43" y="19" width="1698" height="1715" extended-state="0" />
